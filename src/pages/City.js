@@ -172,7 +172,7 @@ class City extends Component {
 
   render(){
     return (
-      <div className="container-fluid" style={{ marginTop: 30, marginBottom: 30 }}>
+      <div className="container" style={{ marginTop: 30, marginBottom: 30 }}>
         { this.state.city && (
           <div className="row">
             <div className="col">

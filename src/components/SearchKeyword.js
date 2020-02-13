@@ -6,7 +6,7 @@ const SearchKeyword = (props) => (
   <div className="card">
     <div className="card-body">
       <div className="form-row">
-        <div className="col-10">
+        <div className="col-9">
           <input
             className="form-control"
             type="text"
@@ -17,7 +17,7 @@ const SearchKeyword = (props) => (
         </div>
         <div className="col">
           <button
-            className="btn btn-primary"
+            className="btn btn-primary btn-block"
             type="button"
             onClick={props.onClickAddToCriteria}
           >
