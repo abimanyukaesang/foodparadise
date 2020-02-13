@@ -1,0 +1,31 @@
+.main-banner{
+    position: relative;
+    padding: 0;
+    overflow: hidden;
+    .banner-masking{
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: linear-gradient(to top, #000000, 40%, rgba(0, 0, 0, 0));
+
+        .valign-banner{
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+            text-align: center;
+            color: #fff;
+            h4{
+                margin-bottom: 5px;
+            }
+        }
+    }
+
+    .brand{
+        margin: 0 0 10px 0;
+        border-radius: 3px;
+        background-color: #fff;
+        max-width: 100px;
+    }
+}
