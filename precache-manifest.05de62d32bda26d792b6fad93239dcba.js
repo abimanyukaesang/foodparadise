@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88ada28818ae6c0c7d68b1cda8ea3d9f",
+    "revision": "a0575e01435f251907d2e2810ef322f1",
     "url": "/foodparadise/index.html"
   },
   {
-    "revision": "145073fdb2c175392b06",
-    "url": "/foodparadise/static/css/main.e902630a.chunk.css"
+    "revision": "6e489c968fb238200ef0",
+    "url": "/foodparadise/static/css/main.e969a32d.chunk.css"
   },
   {
-    "revision": "fb1de39f19aac3f0f0e2",
-    "url": "/foodparadise/static/js/2.f1ea6f87.chunk.js"
+    "revision": "c8b9f6250974df6cc0aa",
+    "url": "/foodparadise/static/js/2.af59d52f.chunk.js"
   },
   {
-    "revision": "145073fdb2c175392b06",
-    "url": "/foodparadise/static/js/main.e21e4b3e.chunk.js"
+    "revision": "6e489c968fb238200ef0",
+    "url": "/foodparadise/static/js/main.a9ba5272.chunk.js"
   },
   {
     "revision": "4622411e31e96098825d",

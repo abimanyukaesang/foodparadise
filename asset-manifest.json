@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/foodparadise/static/css/main.e902630a.chunk.css",
-    "main.js": "/foodparadise/static/js/main.e21e4b3e.chunk.js",
-    "main.js.map": "/foodparadise/static/js/main.e21e4b3e.chunk.js.map",
+    "main.css": "/foodparadise/static/css/main.e969a32d.chunk.css",
+    "main.js": "/foodparadise/static/js/main.a9ba5272.chunk.js",
+    "main.js.map": "/foodparadise/static/js/main.a9ba5272.chunk.js.map",
     "runtime~main.js": "/foodparadise/static/js/runtime~main.4ef196b0.js",
     "runtime~main.js.map": "/foodparadise/static/js/runtime~main.4ef196b0.js.map",
-    "static/js/2.f1ea6f87.chunk.js": "/foodparadise/static/js/2.f1ea6f87.chunk.js",
-    "static/js/2.f1ea6f87.chunk.js.map": "/foodparadise/static/js/2.f1ea6f87.chunk.js.map",
+    "static/js/2.af59d52f.chunk.js": "/foodparadise/static/js/2.af59d52f.chunk.js",
+    "static/js/2.af59d52f.chunk.js.map": "/foodparadise/static/js/2.af59d52f.chunk.js.map",
     "index.html": "/foodparadise/index.html",
-    "precache-manifest.8bbb9429940dce081960ee355d01547f.js": "/foodparadise/precache-manifest.8bbb9429940dce081960ee355d01547f.js",
+    "precache-manifest.05de62d32bda26d792b6fad93239dcba.js": "/foodparadise/precache-manifest.05de62d32bda26d792b6fad93239dcba.js",
     "service-worker.js": "/foodparadise/service-worker.js",
-    "static/css/main.e902630a.chunk.css.map": "/foodparadise/static/css/main.e902630a.chunk.css.map",
+    "static/css/main.e969a32d.chunk.css.map": "/foodparadise/static/css/main.e969a32d.chunk.css.map",
     "static/media/logo.png": "/foodparadise/static/media/logo.7e422680.png",
-    "static/media/main-banner.jpg": "/foodparadise/static/media/main-banner.6f9ab5d1.jpg"
+    "static/media/ImageAndWelcome.scss": "/foodparadise/static/media/main-banner.6f9ab5d1.jpg"
   }
 }
