@@ -183,7 +183,7 @@ class City extends Component {
           </div>
         )}
         <div className="row">
-          <div className="col-3">
+          <div className="col-md-3">
             <h5>Categories</h5>
             <CategoryList 
               categories={this.state.categories}

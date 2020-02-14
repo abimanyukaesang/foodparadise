@@ -26,10 +26,10 @@ const RestaurantProfile = (props) => (
       {
         props.restaurant ? (
           <div className="row">
-            <div className="col-6">
-              <img class="img-responsive" src={props.restaurant.featured_image} alt="" style={{ borderRadius: 5, width: 500 }} ></img>
+            <div className="col-md-6">
+              <img className="img-fluid" src={props.restaurant.featured_image} alt="" style={{ borderRadius: 5, width: 500 }} ></img>
             </div>
-            <div className="col-6">
+            <div className="col-md-6">
               <table className="table">
                 <tbody>
                   <tr>

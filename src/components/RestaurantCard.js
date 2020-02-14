@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import RatingLabel from './RatingLabel'
 
 const RestaurantCard = (props) => (
-  <div className="col-6" style={{ marginBottom: 20 }}>
+  <div className="col-md-6" style={{ marginBottom: 20 }}>
     <div className="card">
       <div className="card-header">
         <div className="row">

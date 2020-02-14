@@ -6,9 +6,9 @@ const SearchKeyword = (props) => (
   <div className="card">
     <div className="card-body">
       <div className="form-row">
-        <div className="col-9">
+        <div className="col-md-9">
           <input
-            className="form-control"
+            className="form-control mb-2"
             type="text"
             placeholder="Type keyword i.e : restaurant's name, location, cuisine, etc."
             value={props.keyword}

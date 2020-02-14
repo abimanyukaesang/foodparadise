@@ -6,9 +6,12 @@ import axios from 'axios'
 import { API } from '../config/api'
 
 const citiesDummy = [
-  { id: 74, name: 'Jakarta', country_name: 'Indonesia' },
-  { id: 11052, name: 'Bandung', country_name: 'Indonesia' },
-  { id: 170, name: 'Bali', country_name: 'Indonesia' },
+  { id: 74, name: 'Jakarta', country_name: 'Indonesia', country_flag_url: 'https://b.zmtcdn.com/images/countries/flags/country_94.png' },
+  { id: 11052, name: 'Bandung', country_name: 'Indonesia', country_flag_url: 'https://b.zmtcdn.com/images/countries/flags/country_94.png' },
+  { id: 170, name: 'Bali', country_name: 'Indonesia',country_flag_url: 'https://b.zmtcdn.com/images/countries/flags/country_94.png' },
+  { id: 280, name: 'New York City', country_name: 'United States',country_flag_url: 'https://b.zmtcdn.com/images/countries/flags/country_216.png' },
+  { id: 296, name: 'Perth', country_name: 'Australia',country_flag_url: 'https://b.zmtcdn.com/images/countries/flags/country_14.png' },
+  { id: 1, name: 'Delhi NCR', country_name: 'India',country_flag_url: 'https://b.zmtcdn.com/images/countries/flags/country_1.png' },
 ]
 class Home extends Component {
   constructor() {

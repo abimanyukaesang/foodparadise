@@ -2,7 +2,7 @@ import React from 'react'
 
 const CategoryList = (props) => (
     props.categories ? (
-      <div className="list-group">
+      <div className="list-group mb-3">
         {props.categories.map(category => (
           <button
             key={category.id}

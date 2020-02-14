@@ -7,18 +7,18 @@ const SearchCity = (props) => (
       <div className="card">
         <div className="card-body">
           <div className="form-row">
-            <div className="col-11">
+            <div className="col-md-10">
               <input
-                  className="form-control"
+                  className="form-control mb-2"
                   type="text"
                   placeholder="Type keyword or city name"
                   value={props.value}
                   onChange={props.onChange}
               />
             </div>
-            <div className="col-1">
+            <div className="col-md-2">
               <button
-                className="btn btn-primary"
+                className="btn btn-primary btn-block"
                 type="button"
                 onClick={props.onClickSearch}
               >

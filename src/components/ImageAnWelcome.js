@@ -1,12 +1,10 @@
 import React from 'react'
-import mainImage from "../assets/images/main-banner.jpg";
 import Logo from "../assets/images/logo.png";
 import '../assets/scss/ImageAndWelcome.scss';
 
 
 const ImageAndWelcome = () => (
     <div className='main-banner'>
-        <img src={mainImage} width="100%" alt="aneka-makanan" ></img>
         <div className='banner-masking'>
             <div className='valign-banner'>
                 <div className='container'>
