@@ -13,7 +13,7 @@ const CityCard = (props) => (
             </div>
             <div className="card-body">
                 <p>{props.city.country_name}</p>
-                <Link to={`/city/${props.city.id}`} className="card-text">See restaurants in {props.city.name}</Link>
+                <Link to={`/foodparadise/city/${props.city.id}`} className="card-text">See restaurants in {props.city.name}</Link>
             </div>
         </div>
     </div>
