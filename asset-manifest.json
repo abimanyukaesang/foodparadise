@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foodparadise/static/css/main.e969a32d.chunk.css",
-    "main.js": "/foodparadise/static/js/main.a9ba5272.chunk.js",
-    "main.js.map": "/foodparadise/static/js/main.a9ba5272.chunk.js.map",
+    "main.js": "/foodparadise/static/js/main.442fc008.chunk.js",
+    "main.js.map": "/foodparadise/static/js/main.442fc008.chunk.js.map",
     "runtime~main.js": "/foodparadise/static/js/runtime~main.4ef196b0.js",
     "runtime~main.js.map": "/foodparadise/static/js/runtime~main.4ef196b0.js.map",
     "static/js/2.af59d52f.chunk.js": "/foodparadise/static/js/2.af59d52f.chunk.js",
     "static/js/2.af59d52f.chunk.js.map": "/foodparadise/static/js/2.af59d52f.chunk.js.map",
     "index.html": "/foodparadise/index.html",
-    "precache-manifest.05de62d32bda26d792b6fad93239dcba.js": "/foodparadise/precache-manifest.05de62d32bda26d792b6fad93239dcba.js",
+    "precache-manifest.2bedbf0fb70ba086b8ad98b3149f56bd.js": "/foodparadise/precache-manifest.2bedbf0fb70ba086b8ad98b3149f56bd.js",
     "service-worker.js": "/foodparadise/service-worker.js",
     "static/css/main.e969a32d.chunk.css.map": "/foodparadise/static/css/main.e969a32d.chunk.css.map",
     "static/media/logo.png": "/foodparadise/static/media/logo.7e422680.png",
