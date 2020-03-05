@@ -12,9 +12,9 @@ class App extends Component {
     return (
       <Router>
         <Navbar />
-        <Route path="/" exact component={Home}></Route>
-        <Route path="/city/:city_id" component={City}></Route>
-        <Route path="/restaurant/:restaurant_id" component={RestaurantDetail}></Route>
+        <Route path="/foodparadise" exact component={Home}></Route>
+        <Route path="/foodparadise/city/:city_id" component={City}></Route>
+        <Route path="/foodparadise/restaurant/:restaurant_id" component={RestaurantDetail}></Route>
         <Footer />
       </Router>
     );
